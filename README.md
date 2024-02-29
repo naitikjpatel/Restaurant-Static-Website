@@ -35,4 +35,6 @@ This repository contains the code for a static website showcasing a single resta
 * CSS Tutorial: URL css tutorial ON W3Schools w3schools.com
 * JavaScript Tutorial: URL javascript tutorial ON W3Schools w3schools.com
 
+**Check Live Project :[Click Here](https://naitikjpatel.github.io/Restaurant-Static-Website/)
+
 This README file provides a brief overview of the project. Feel free to add further details or instructions as needed to make your repository more user-friendly and informative.
